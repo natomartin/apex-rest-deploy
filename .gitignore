@@ -1,0 +1,8 @@
+pases/
+*.csv
+repos_git.json
+.env
+__pycache__/
+*.pyc
+.venv/
+.vscode/
